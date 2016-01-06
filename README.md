@@ -1,6 +1,4 @@
-> Note: This theme isn't published. It serves as the master "template" for all DuoTone themes.
-
-# DuoTone Syntax (master)
+# DuoTone Dark Soft
 
 A double-hue syntax theme for Atom.
 
