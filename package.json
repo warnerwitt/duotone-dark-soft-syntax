@@ -1,8 +1,8 @@
 {
   "name": "duotone-dark-soft-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "Master template for DuoTone syntax themes",
+  "version": "0.0.0",
+  "description": "Customized version of the DuoTone syntax theme",
   "keywords": [
     "duotone",
     "syntax"
