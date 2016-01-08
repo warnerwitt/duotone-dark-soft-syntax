@@ -2,6 +2,10 @@
 
 A double-hue syntax theme for Atom.
 
+**NOTE:** This is an edited version of the core Duotone theme created by [simurai](https://github.com/simurai/duotone-dark-syntax). This theme shifts the original purple to a slightly bluer shade (from 250 to 225). It also tones down the orange slightly (from 30 to 20). In addition to making the background darker, it switches the HTML text value to use the dark orange shade.
+
+## Original README:
+
 ![duotone](https://cloud.githubusercontent.com/assets/378023/11769688/753483be-a230-11e5-9193-51db5e77ce6b.png)
 
 DuoTone themes use only 2 hues (7 shades in total). It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
